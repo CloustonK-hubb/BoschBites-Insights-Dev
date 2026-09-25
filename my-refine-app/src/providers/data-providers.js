@@ -1,5 +1,5 @@
 //will replace with Supabase data provider API link 
-const API_URL ="https://fake.api-rest.refine.dev";
+const API_URL ="https://api.fake-rest.refine.dev";
 
 //establishing CRUD functionality for the data provider but data is not being called yet 
 export const dataProvider = {
